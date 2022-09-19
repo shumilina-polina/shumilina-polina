@@ -1,11 +1,21 @@
 <h1 align="center">𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 <a href="https://drive.google.com/file/d/1UuURDo7-CjLHHsIDfkQ9caQ3H07PFYlk/view?usp=sharing" target="_blank">𝗣𝗼𝗹𝗶𝗻𝗮</a> 
  <img src="https://user-images.githubusercontent.com/63950558/162943154-8385c3e4-4f2b-44ab-9941-7037c6703240.gif" height="32"/></h1>
 
-<h3 align="center">Junior Front-end developer</h3>
+<h2 align="center">Front-end developer</h2>
 
-- 🌱 I’m currently learning Web (React)
+- 🌱 I’m currently learning Web
 - 📫 How to reach me: <shumilina.p.a@gmail.com>
-- ⚡ Skills: JavaScript, TypeScript, React, Redux, JQuery, HTML, CSS (Scss)
+
+<h2 align="center">Skills</h2>
+<div>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/>
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="32"/>
+ <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32"/>
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32"/>
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="32"/>
+ <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" height="32"/>
+ <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="32"/>
+</div>
 
 <h3 align="left">Connect with me</h3>
 <div>
@@ -20,8 +30,6 @@
   </a>
 </div>
 <br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shumilina-polina&theme=solarized_dark)
 
 [![codewars](https://www.codewars.com/users/Polinashh/badges/micro)](https://www.codewars.com/users/Polinashh)
 
