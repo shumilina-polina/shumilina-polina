@@ -1,4 +1,4 @@
-<h1 align="center">𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 <a href="https://drive.google.com/file/d/1UuURDo7-CjLHHsIDfkQ9caQ3H07PFYlk/view?usp=sharing" target="_blank">𝗣𝗼𝗹𝗶𝗻𝗮</a> 
+<h1 align="center">𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 <a href="https://drive.google.com/file/d/1AUNIZYOi6w_7nUd3bamGLVmSbkPwpT5Q/view?usp=sharing" target="_blank">𝗣𝗼𝗹𝗶𝗻𝗮</a> 
  <img src="https://user-images.githubusercontent.com/63950558/162943154-8385c3e4-4f2b-44ab-9941-7037c6703240.gif" height="32"/></h1>
 
 <h2 align="center">Front-end developer</h2>
