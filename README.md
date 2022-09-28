@@ -4,7 +4,8 @@
 <h2 align="center">Front-end developer</h2>
 
 - 🌱 I’m currently learning Web
-- 📫 How to reach me: <shumilina.p.a@gmail.com>
+- 📫 E-mail: <shumilina.p.a@gmail.com>
+- 📫 Telegram: <a href="https://t.me/shumpolinaa" target="_blank">shumpolinaa</a> 
 
 <h2 align="center">Skills</h2>
 <div>
@@ -16,20 +17,4 @@
  <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" height="32"/>
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="32"/>
 </div>
-
-<h3 align="left">Connect with me</h3>
-<div>
-  <a href="https://t.me/shumpolinaa" target="_blank">
-    <img src="https://user-images.githubusercontent.com/63950558/162951821-1ea80aaa-9437-4dcd-8e38-b97487875145.svg" height="32"/>
-  </a>
-  <a href="https://vk.com/shumpolinaa" target="_blank">
-    <img src="https://user-images.githubusercontent.com/63950558/162952113-c264e468-7743-44d2-b05e-3780ce75149f.svg" height="32"/>
-  </a>
-  <a href="mailto:shumilina.p.a@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/63950558/162955433-f086bb5e-1923-4897-8b8a-de32c9a330f2.svg" height="32"/>
-  </a>
-</div>
-<br>
-
-[![codewars](https://www.codewars.com/users/Polinashh/badges/micro)](https://www.codewars.com/users/Polinashh)
 
