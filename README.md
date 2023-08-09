@@ -3,17 +3,18 @@
 
 <h2 align="center">Front-end developer</h2>
 
-- 🌱 I’m currently learning Web
+- 🖥️ I develop websites and web applications, animate layouts of any complexity
 - 📫 E-mail: <shumilina.p.a@gmail.com>
-- 📫 Telegram: <a href="https://t.me/shumpolinaa" target="_blank">shumpolinaa</a> 
+- 📱 Telegram: <a href="https://t.me/shumpolinaa" target="_blank">shumpolinaa</a> 
 
-<h2 align="center">Skills</h2>
+<h2></h2>
 <div>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32"/>
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="32"/>
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="32"/>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32"/>
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="32"/>
+ <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="32"/>
  <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" height="32"/>
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="32"/>
 </div>
